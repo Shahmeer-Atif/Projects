@@ -8,8 +8,6 @@
 #include"Animation.h"
 using namespace std;
 using namespace sf;
-//Group Member 1: Shahmeer Atif 23i-0711 CS-G
-//Group Member 2: Irfan Khalid  23i-2092 CS-G
 class Sun {
 protected:
 	Animation SUNS;
