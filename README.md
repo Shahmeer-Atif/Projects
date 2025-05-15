@@ -3,10 +3,15 @@ This is a Plant vs. Zombies-style tower defense game developed using C++, levera
 
 🛠 Features
 🌿 Plants with unique abilities – including shooters,repeaters and sun producers.
+
 🧟 Zombies with varying strengths and types – that move across lanes and try to reach the house.
+
 🎮 Smooth 2D graphics and animations powered by SFML.
+
 🧱 Grid-based planting system with interactive mouse input.
+
 🧠 Clean and modular code architecture using classes for Plants, Zombies, Projectiles, and Game Engine.
+
 📦 Technologies Used
 C++ – for core logic and game loop.
 
